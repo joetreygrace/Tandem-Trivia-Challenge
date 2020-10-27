@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500&family=Roboto&display=swap");
+
+:root {
+  --black: #11151c;
+  --blue: #212d40;
+  --charcoal: #364156;
+  --darkRed: #7d4e57;
+  --red: #d66853;
+  font: 30px "Roboto", sans-serif;
+  color: var(--red);
+}
+
+html {
+  background-color: var(--black);
+}
+
+h1 {
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
