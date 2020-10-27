@@ -21,3 +21,7 @@ h1 {
 ul {
   list-style-type: none;
 }
+li {
+  background-color: var(--charcoal);
+  border-radius: 5px;
+}
